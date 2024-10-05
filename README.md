@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meghana</h1>
 <h3 align="center">Aspiring Data Professional with Expertise in Business Data Analytics and Proven Skills in Power BI, Python, and SQL</h3>
 
-<h3 align="left">Connect with me:www.linkedin.com/in/meghana-g-a819a5192
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/meghana-g-a819a5192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meghana-g-a819a5192" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
