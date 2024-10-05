@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghana</h1>
 <h3 align="center">Aspiring Data Professional with Expertise in Business Data Analytics and Proven Skills in Power BI, Python, and SQL</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:www.linkedin.com/in/meghana-g-a819a5192
 <p align="left">
 </p>
 
