@@ -1,9 +1,7 @@
-<h1 align="center">Hey 👋, I'm Meghana</h1>
+<h1 align="center">Hey, I'm Meghana</h1>
 <h3 align="center">Aspiring Data Professional with Expertise in Business Data Analytics and Proven Skills in Power BI, Python, and SQL</h3>
 
-- 🔭 I’m currently working on **sharpening my skills and acquiring new knowledge in data analysis to provide effective data-driven solutions.**
-
-- 💬 Ask me about **Data Analysis and Data Visualization**
+- I’m currently working on **sharpening my skills and acquiring new knowledge in data analysis to provide effective data-driven solutions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
